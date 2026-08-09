@@ -2,185 +2,94 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=ALWIN%20ANTONY&fontSize=52&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=AI%20%2F%20ML%20%20•%20%20PYTHON%20%20•%20%20SOFTWARE&descAlignY=62&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:312e81,100:7c3aed&height=220&section=header&text=ALWIN%20ANTONY&fontSize=55&fontColor=ffffff&fontAlignY=42&desc=AI%20%2F%20ML%20%20%20•%20%20%20PYTHON%20%20%20•%20%20%20INDUSTRIAL%20AI&descSize=17&descAlignY=65&animation=fadeIn" width="100%"/>
 
 <br>
 
-### Artificial Intelligence · Machine Learning · Software Development
+<h3>
+Building intelligent systems & modern software
+</h3>
 
-I build practical applications, machine learning systems,
-and intelligent software.
+<p>
+Machine Learning &nbsp;•&nbsp;
+Deep Learning &nbsp;•&nbsp;
+Python &nbsp;•&nbsp;
+Computer Vision
+</p>
 
 <br>
 
 <a href="https://github.com/alwinantony084-blip">
-<img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GITHUB-0f172a?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </a>
-&nbsp;
+
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LINKEDIN-2563eb?style=for-the-badge&logo=linkedin&logoColor=ffffff"/>
 </a>
-&nbsp;
+
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/EMAIL-db2777?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
 </a>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-## CURRENTLY BUILDING
-
-**AI / ML · Deep Learning · Computer Vision · Industrial AI**
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js,react,flask,mysql,tensorflow,git,github" />
 
 <br><br>
 
-`Pandas` · `NumPy` · `Scikit-learn` · `Matplotlib` · `Seaborn`
-
 </div>
-
-<br>
-
----
-
-## SELECTED REPOSITORIES
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### `Portfolio`
-
-Personal developer portfolio.
-
-**React · JavaScript · CSS**
-
-<a href="https://github.com/alwinantony084-blip/Portfolio">
-View repository →
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### `Tasknest`
-
-Task management application.
-
-**JavaScript · Web Development**
-
-<a href="https://github.com/alwinantony084-blip/Tasknest">
-View repository →
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### `Finrisk`
-
-Machine learning system for loan approval prediction.
-
-**Python · Scikit-learn · Pandas**
-
-<a href="https://github.com/alwinantony084-blip/Finrisk">
-View repository →
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### `Fashion-MNIST Classifier`
-
-Deep learning image classification.
-
-**Python · Deep Learning · Computer Vision**
-
-<a href="https://github.com/alwinantony084-blip/fashion-mnist-classifier">
-View repository →
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### `College-Election-System`
-
-College election management platform.
-
-**PHP · MySQL · HTML · CSS**
-
-<a href="https://github.com/alwinantony084-blip/College-Election-System">
-View repository →
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### `Gym-website`
-
-Responsive fitness website.
-
-**HTML · CSS · JavaScript**
-
-<a href="https://github.com/alwinantony084-blip/Gym-website">
-View repository →
-</a>
-
-</td>
-
-</tr>
-</table>
-
-<br>
 
 ---
 
 <div align="center">
 
-## CONTRIBUTION ACTIVITY
+## `01` — ABOUT
+
+</div>
+
+I'm a **Computer Applications graduate** focused on building practical applications with **Artificial Intelligence, Machine Learning and Python**.
+
+My interests include **Deep Learning, Computer Vision, Data Science and Industrial AI**, with a focus on turning ideas into useful software.
+
+<br>
+
+<div align="center">
+
+`AI` &nbsp;&nbsp; `MACHINE LEARNING` &nbsp;&nbsp; `DEEP LEARNING`
+<br>
+`PYTHON` &nbsp;&nbsp; `COMPUTER VISION` &nbsp;&nbsp; `SOFTWARE DEVELOPMENT`
+
+</div>
+
+---
+
+<div align="center">
+
+## `02` — TECHNOLOGIES
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,react,flask,mysql,tensorflow,git,github&perline=9"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## `03` — CONTRIBUTION ACTIVITY
 
 <br>
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=alwinantony084-blip&bg_color=ffffff&color=24292f&line=0969da&point=0969da&area=true&hide_border=true"
+src="https://github-readme-activity-graph.vercel.app/graph?username=alwinantony084-blip&bg_color=0b1120&color=a78bfa&line=22d3ee&point=f472b6&area_color=312e81&area=true&hide_border=true"
 width="100%"
 />
 
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-## GITHUB CONTRIBUTIONS
-
-<br>
+<br><br>
 
 <img
 src="https://github.com/alwinantony084-blip/alwinantony084-blip/blob/output/github-contribution-grid-snake.svg"
@@ -189,24 +98,32 @@ width="100%"
 
 </div>
 
-<br>
-
 ---
 
 <div align="center">
 
-### AI / ML · SOFTWARE · INDUSTRIAL AI
+## `04` — CONNECT
 
 <br>
 
-<a href="https://github.com/alwinantony084-blip">GitHub</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="YOUR_LINKEDIN_URL">LinkedIn</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="mailto:YOUR_EMAIL">Email</a>
+<a href="https://github.com/alwinantony084-blip">
+<img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-db2777?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=alwinantony084-blip&style=flat-square&color=0969da&label=PROFILE+VIEWS">
+<sub>AI • ML • SOFTWARE • INDUSTRIAL AI</sub>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=alwinantony084-blip&style=flat-square&color=7c3aed&label=PROFILE+VIEWS"/>
 
 </div>
