@@ -2,128 +2,151 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:312e81,100:7c3aed&height=220&section=header&text=ALWIN%20ANTONY&fontSize=55&fontColor=ffffff&fontAlignY=42&desc=AI%20%2F%20ML%20%20%20•%20%20%20PYTHON%20%20%20•%20%20%20INDUSTRIAL%20AI&descSize=17&descAlignY=65&animation=fadeIn" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:17103A,100:2A0F3D&text=ALWIN%20ANTONY&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%2F%20ML%20%20%20%E2%80%A2%20%20%20PYTHON%20%20%20%E2%80%A2%20%20%20DATA%20SCIENCE&descSize=17&descAlignY=60&animation=fadeIn"/>
 
 <br>
 
-<h3>
-Building intelligent systems & modern software
-</h3>
+### `Building • Learning • Experimenting`
 
 <p>
-Machine Learning &nbsp;•&nbsp;
-Deep Learning &nbsp;•&nbsp;
-Python &nbsp;•&nbsp;
-Computer Vision
+  <img src="https://img.shields.io/badge/AI%20%2F%20ML-8B5CF6?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-06B6D4?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Data%20Science-F97316?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/Software-EC4899?style=flat-square&logoColor=white">
 </p>
 
 <br>
 
 <a href="https://github.com/alwinantony084-blip">
-<img src="https://img.shields.io/badge/GITHUB-0f172a?style=for-the-badge&logo=github&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=FFFFFF">
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-2563eb?style=for-the-badge&logo=linkedin&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=FFFFFF">
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/EMAIL-db2777?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/EMAIL-F43F5E?style=for-the-badge&logo=gmail&logoColor=FFFFFF">
 </a>
 
-<br><br>
-
 </div>
+
+<br>
 
 ---
 
 <div align="center">
 
-## `01` — ABOUT
-
-</div>
-
-I'm a **Computer Applications graduate** focused on building practical applications with **Artificial Intelligence, Machine Learning and Python**.
-
-My interests include **Deep Learning, Computer Vision, Data Science and Industrial AI**, with a focus on turning ideas into useful software.
+## `01` &nbsp; WHO AM I?
 
 <br>
 
-<div align="center">
-
-`AI` &nbsp;&nbsp; `MACHINE LEARNING` &nbsp;&nbsp; `DEEP LEARNING`
-<br>
-`PYTHON` &nbsp;&nbsp; `COMPUTER VISION` &nbsp;&nbsp; `SOFTWARE DEVELOPMENT`
-
-</div>
-
----
-
-<div align="center">
-
-## `02` — TECHNOLOGIES
+**Computer Applications Graduate**
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,react,flask,mysql,tensorflow,git,github&perline=9"/>
+I build software and explore **Artificial Intelligence,
+Machine Learning, Data Science and Deep Learning**.
+
+<br>
+
+Currently focused on improving my skills through
+projects, experimentation and continuous learning.
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
+`Artificial Intelligence`
+&nbsp;&nbsp; `Machine Learning`
+&nbsp;&nbsp; `Deep Learning`
+
+<br>
+
+`Python`
+&nbsp;&nbsp; `Data Science`
+&nbsp;&nbsp; `Software Development`
 
 </div>
+
+<br>
 
 ---
 
 <div align="center">
 
-## `03` — CONTRIBUTION ACTIVITY
+## `02` &nbsp; TOOLBOX
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,php,react,flask,mysql,tensorflow,git,github,vscode&perline=11"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## `03` &nbsp; ACTIVITY
 
 <br>
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=alwinantony084-blip&bg_color=0b1120&color=a78bfa&line=22d3ee&point=f472b6&area_color=312e81&area=true&hide_border=true"
-width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=alwinantony084-blip&bg_color=050816&color=22D3EE&line=A855F7&point=FB7185&area_color=312E81&area=true&hide_border=true"
+width="96%"
 />
 
 <br><br>
+
+### Contribution Calendar
+
+<br>
 
 <img
 src="https://github.com/alwinantony084-blip/alwinantony084-blip/blob/output/github-contribution-grid-snake.svg"
-width="100%"
+width="96%"
 />
 
 </div>
+
+<br>
 
 ---
 
 <div align="center">
 
-## `04` — CONNECT
+## `04` &nbsp; CONNECT
 
-<br>
+<br><br>
 
 <a href="https://github.com/alwinantony084-blip">
-<img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=FFFFFF">
 </a>
+
+&nbsp;
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=FFFFFF">
 </a>
+
+&nbsp;
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-db2777?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-F43F5E?style=for-the-badge&logo=gmail&logoColor=FFFFFF">
 </a>
 
 <br><br>
 
-<sub>AI • ML • SOFTWARE • INDUSTRIAL AI</sub>
+<img src="https://komarev.com/ghpvc/?username=alwinantony084-blip&style=flat-square&color=A855F7&label=PROFILE+VIEWS">
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=alwinantony084-blip&style=flat-square&color=7c3aed&label=PROFILE+VIEWS"/>
+<sub>AI / ML &nbsp; • &nbsp; PYTHON &nbsp; • &nbsp; DATA SCIENCE</sub>
 
 </div>
