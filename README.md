@@ -4,7 +4,7 @@
 
 ### AI / ML Developer • Python Developer • Full-Stack Developer
 
-**BCA Graduate | Incoming Industrial AI Master's Student 🇩🇪**
+**BCA Graduate | Data Scientist**
 
 <br>
 
@@ -30,7 +30,6 @@ I enjoy building practical applications that combine intelligent systems with mo
 
 🌐 Experienced in **Full-Stack Web Development**
 
-🇩🇪 Preparing to pursue a **Master's in Industrial Artificial Intelligence in Germany**
 
 ---
 
