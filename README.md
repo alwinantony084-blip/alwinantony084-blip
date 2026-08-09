@@ -2,71 +2,95 @@
 
 # ALWIN ANTONY
 
-### AI / ML · Python · Data Science · Full-Stack
+### AI / ML · PYTHON · SOFTWARE DEVELOPMENT
 
-Building intelligent systems and practical software.
+Building practical applications with Artificial Intelligence,
+Machine Learning and modern software technologies.
 
 <br>
 
 <a href="https://github.com/alwinantony084-blip">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="mailto:alwinantony084@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white">
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
 
----
-
-## About
-
-I'm a Computer Applications graduate focused on **Artificial Intelligence, Machine Learning, Data Science, and Software Development**.
-
-I enjoy building practical applications using **Python, machine learning, deep learning, and modern web technologies**.
-
-Currently moving toward **Industrial AI and intelligent systems**.
+<br>
 
 ---
 
-## Tech Stack
+## 👋 About
+
+I'm a **BCA graduate** interested in Artificial Intelligence,
+Machine Learning, Data Science and Software Development.
+
+My work focuses on building practical software, experimenting
+with machine learning models, and exploring intelligent systems.
+
+Currently moving toward **Industrial AI, Deep Learning and
+Computer Vision**.
+
+---
+
+## ⚙️ Technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,php,react,flask,mysql,tensorflow,git,github" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,php,react,flask,mysql,tensorflow,git,github,vscode" />
 
 <br><br>
 
-`Pandas` · `NumPy` · `Scikit-learn` · `Matplotlib` · `Seaborn`
+**Python** · **Scikit-learn** · **Pandas** · **NumPy** ·
+**Matplotlib** · **Seaborn**
 
 </div>
 
 ---
 
-## Featured Projects
+## 📂 Repositories
 
 <div align="center">
 
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-### Finrisk
+### Portfolio
 
-Machine learning system for predicting loan approval and rejection.
+Personal developer portfolio showcasing my projects,
+skills and development work.
 
-**Python · Scikit-learn · Pandas**
+**React · JavaScript · CSS**
+
+<br>
+
+<a href="https://github.com/alwinantony084-blip/Portfolio">
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-### Fashion-MNIST Classifier
+### Tasknest
 
-Deep learning image classification using the Fashion-MNIST dataset.
+Task management application designed to organize
+and manage everyday tasks.
 
-**Python · Deep Learning · Computer Vision**
+**JavaScript · Web Development**
+
+<br>
+
+<a href="https://github.com/alwinantony084-blip/Tasknest">
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
 
 </td>
 
@@ -74,23 +98,75 @@ Deep learning image classification using the Fashion-MNIST dataset.
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-### IoT E-Commerce Platform
+### Finrisk
 
-Full-stack e-commerce platform for IoT devices and components.
+Machine learning project for predicting loan approval
+and rejection from financial and applicant data.
 
-**Python · Flask · MySQL**
+**Python · Scikit-learn · Pandas**
+
+<br>
+
+<a href="https://github.com/alwinantony084-blip/Finrisk">
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
 ### College Election System
 
-Web-based platform for managing college elections and voting.
+Web-based college election management system for
+candidates and voting.
 
 **PHP · MySQL · HTML · CSS**
+
+<br>
+
+<a href="https://github.com/alwinantony084-blip/College-Election-System">
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### Fashion-MNIST Classifier
+
+Deep learning image classification project using
+the Fashion-MNIST dataset.
+
+**Python · Deep Learning · Computer Vision**
+
+<br>
+
+<a href="https://github.com/alwinantony084-blip/fashion-mnist-classifier">
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### Gym Website
+
+Responsive web project created for a fitness and
+gym-oriented website.
+
+**HTML · CSS · JavaScript**
+
+<br>
+
+<a href="https://github.com/alwinantony084-blip/Gym-website">
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
 
 </td>
 
@@ -101,11 +177,27 @@ Web-based platform for managing college elections and voting.
 
 ---
 
-## GitHub
+## 📊 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alwinantony084-blip&theme=github-compact&hide_border=true&area=true" width="95%">
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=alwinantony084-blip&theme=github-compact&hide_border=true&area=true"
+  width="95%"
+/>
+
+</div>
+
+---
+
+## 🟩 Contribution Calendar
+
+<div align="center">
+
+<img
+  src="https://github.com/alwinantony084-blip/alwinantony084-blip/blob/output/github-contribution-grid-snake.svg"
+  width="95%"
+/>
 
 </div>
 
@@ -117,8 +209,20 @@ Web-based platform for managing college elections and voting.
 
 <br>
 
-<a href="https://github.com/alwinantony084-blip">GitHub</a>
-&nbsp; · &nbsp;
-<a href="mailto:alwinantony084@gmail.com">Email</a>
+<a href="https://github.com/alwinantony084-blip">
+  GitHub
+</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="YOUR_LINKEDIN_URL">
+  LinkedIn
+</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:YOUR_EMAIL">
+  Email
+</a>
+
+<br><br>
+
+<sub>© 2026 Alwin Antony</sub>
 
 </div>
